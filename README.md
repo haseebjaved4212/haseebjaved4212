@@ -1,7 +1,4 @@
-# Hi there 👋, I'm  Haseeb Javed 
 
-
-## 👨‍🎓 About Me
 
 # Hi there, I'm Haseeb 👋
 
