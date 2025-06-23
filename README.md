@@ -1,8 +1,6 @@
 # Hi there 👋, I'm  Haseeb Javed 
 
 
-https://www.facebook.com/share/17NVuewX2u/
-
 ## 👨‍🎓 About Me
 
 - 🎓 Student passionate about technology and coding
