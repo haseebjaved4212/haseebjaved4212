@@ -1,7 +1,6 @@
 # Hi there 👋, I'm  Haseeb Javed 
 
 
-[![Instagram Badge](https://img.shields.io/badge/-abdul_haseeb4212-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/abdul_haseeb4212?igsh=MXUyczMxdWdweXNkaA==)](https://www.instagram.com/abdul_haseeb4212?igsh=MXUyczMxdWdweXNkaA==
 https://www.facebook.com/share/17NVuewX2u/
 
 ## 👨‍🎓 About Me
