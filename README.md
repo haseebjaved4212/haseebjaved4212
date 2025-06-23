@@ -27,6 +27,6 @@ Welcome to my GitHub profile!
 
 ---
 
-_Thanks for visiting my profile! 
-
 > “Keep exploring, keep learning, and keep growing! 🚀”
+
+_Thanks for visiting my profile! 
