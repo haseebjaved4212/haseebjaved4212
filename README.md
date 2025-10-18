@@ -1,82 +1,71 @@
 
-# Hi there, I'm Haseeb Javed 👋
+# Hi, I'm Haseeb Javed! 👋
 
-Welcome to my GitHub profile!  
-I'm a passionate Frontend Developer with a strong focus on creating stunning user experiences and interactive web applications.
-
----
-
-## 🚀 Skills
-
-- **Languages & Markup:**  
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) 
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-
-- **Frameworks & Libraries:**  
-  ![React.js](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-  ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
-  ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?logo=greensock&logoColor=white)
-  ![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white)
-
-- **Other:**  
-  - Responsive Web Design
-  - Animation and Interactive UI
-  - Modern Web Technologies
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/haseeb_javed4212?igsh=MTV0cWI2aHh2dDRmbw==)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Haseebjaved4212?t=Be1nJmdR3ipCsHK3dylBTA&s=09)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1BU3pcCN8W/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haseeb-javed-0332b3341)
 
 ---
 
-## 🌱 Hobbies & Interests
+## 🚀 Frontend Developer | Creative Coder | Lifelong Learner
 
-- **Learning New Things:**  
-  Technology is always evolving, and I'm always eager to explore new tools, frameworks, and best practices to level up my skills.
-
-- **Gaming:**  
-  When I'm not coding, you'll find me exploring virtual worlds and enjoying video games.
+Hi there! I'm **Haseeb Javed**, a passionate Frontend Developer who transforms ideas into visually engaging, interactive web experiences. I thrive on creativity, innovation, and keeping up with the latest in frontend tech.
 
 ---
 
-## 📂 Featured Projects
+## 🛠️ My Tech Toolbox
 
-Here are some repositories that showcase my work:
+<div align="center">
 
-- [E-Commerce-Store](https://github.com/haseebjaved4212/E-Commerce-Store)  
-  A modern, responsive e-commerce web application.
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GSAP](https://img.shields.io/badge/gsap-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/framer--motion-black?style=for-the-badge&logo=framer&logoColor=white)
+![Locomotive Scroll](https://img.shields.io/badge/locomotive-000000?style=for-the-badge&logoColor=white)
 
-- [Audira Headphone Brand Website](https://github.com/haseebjaved4212/Audira-Headphone-Brand-Website-)  
-  A stylish landing page for a headphone brand using React and GSAP.
-
-- [Weather App](https://github.com/haseebjaved4212/Weather-App)  
-  A real-time weather forecasting app.
-
-- [Bouncing Ball Game](https://github.com/haseebjaved4212/Bouncing-Ball-Game)  
-  A fun game demonstrating JavaScript animation.
-
-- [Currency Converter](https://github.com/haseebjaved4212/Currency-Converter)  
-  A web app to convert currencies in real-time.
-
----
-
-## 🌐 Connect with me!
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=fff)](https://www.facebook.com/share/17CzrtZN54/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff)](https://www.instagram.com/haseeb_javed4212?igsh=emVtYmdpMW1tYWln)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/haseeb-javed-0332b3341?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![X](https://img.shields.io/badge/X-000?logo=x&logoColor=fff)](https://x.com/Haseebjaved4212?t=vxoZQ1HT9YhtzjuUxnjsWg&s=09)
+</div>
 
 ---
 
-## 📈 GitHub Stats
+## ✨ What I Love
 
-
-![Haseeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haseebjaved4212&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haseebjaved4212&layout=compact&theme=radical)
-
+- 🎨 Creating beautiful & responsive UIs
+- ⚡ Animating the web with GSAP, Framer Motion & Locomotive
+- 🧩 Building dynamic React + Next.js applications
+- 🕹️ Exploring 3D with Three.js
+- 💡 Learning new tech, every day
 
 ---
 
-_“Stay curious, keep learning, and never stop growing!”_
+## 👾 Hobbies & Fun Facts
 
+- 👨‍💻 Coding (of course!)
+- 📚 Reading books
+- 🌱 Exploring new skills & knowledge
+- 🕹️ Playing video games
 
-- Thanks for visiting my profile! 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=haseebjaved4212&show_icons=true&theme=radical" alt="Haseeb's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haseebjaved4212&theme=radical" alt="GitHub Streak" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseebjaved4212&layout=compact&theme=radical" alt="Top Languages" width="40%" />
+</p>
+
+---
+
+> “Never stop learning, because life never stops teaching.”
+
+Thanks for visiting my profile!  
+Feel free to connect or reach out for collaborations, learning, or just a chat about frontend magic or gaming. 🚀
