@@ -7,8 +7,6 @@ Copy this file into your profile repository (https://github.com/haseebjaved4212/
 # Hi, I’m Haseeb 👋
 Professional Frontend Developer crafting modern, accessible, and animated web experiences. I specialize in interactive UIs, 3D on the web, and performant frontends — currently expanding into backend development with Python.
 
-[Portfolio](https://my-portfolio-gamma-beryl-59.vercel.app/) • contactimhaseeb@gmail.com
-
 ---
 
 <!-- Social / Contact Badges -->
