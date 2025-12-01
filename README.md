@@ -1,69 +1,216 @@
+<!--
+README.md for GitHub profile
+Author: Haseeb
+Tone: Professional, modern, and clean
+Instructions: Copy this file to your profile repository (username: haseebjaved4212)
+-->
 
-# Hi, I'm Haseeb Javed! 👋
+# Hi, I’m Haseeb 👋
+Professional Frontend Developer building modern, accessible, and animated web experiences. I specialize in interactive UIs, 3D on the web, and performant frontends — and I'm currently expanding into backend development with Python.
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/haseeb_javed4212?igsh=MTV0cWI2aHh2dDRmbw==)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Haseebjaved4212?t=Be1nJmdR3ipCsHK3dylBTA&s=09)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1BU3pcCN8W/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haseeb-javed-0332b3341)
-
----
-
-## 🚀 Frontend Developer | Creative Coder | Lifelong Learner
-
-Hi there! I'm **Haseeb Javed**, a passionate Frontend Developer who transforms ideas into visually engaging, interactive web experiences. I thrive on creativity, innovation, and keeping up with the latest in frontend tech.
+[Portfolio](https://my-portfolio-gamma-beryl-59.vercel.app/) • contactimhaseeb@gmail.com
 
 ---
 
-## 🛠️ My Tech Toolbox
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Three.js](https://img.shields.io/badge/three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![GSAP](https://img.shields.io/badge/gsap-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/framer--motion-black?style=for-the-badge&logo=framer&logoColor=white)
-![Locomotive Scroll](https://img.shields.io/badge/locomotive-000000?style=for-the-badge&logoColor=white)
-
-</div>
+<!-- Header Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/haseeb-javed-0332b3341)](https://www.linkedin.com/in/haseeb-javed-0332b3341) 
+[![Website](https://img.shields.io/badge/Portfolio-FF007A?style=flat&logo=vercel&logoColor=white&link=https://my-portfolio-gamma-beryl-59.vercel.app/)](https://my-portfolio-gamma-beryl-59.vercel.app/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contactimhaseeb@gmail.com)
 
 ---
 
-## ✨ What I Love
+## About
+- Name: Haseeb
+- Primary role: Frontend Developer (React / Next.js)
+- Currently learning: Python for backend development
+- Hobbies: Learning new technologies, coding, and gaming
 
-- 🎨 Creating beautiful & responsive UIs
-- ⚡ Animating the web with GSAP, Framer Motion & Locomotive
-- 🧩 Building dynamic React + Next.js applications
-- 🕹️ Exploring 3D with Three.js
-- 💡 Learning new tech, every day
-
----
-
-## 👾 Hobbies & Fun Facts
-
-- 👨‍💻 Coding (of course!)
-- 📚 Reading books
-- 🌱 Exploring new skills & knowledge
-- 🕹️ Playing video games
+I build interactive, performant web apps with a focus on polished UI, animation, and smooth user experiences. I use modern frontend tools and progressively add backend capabilities to deliver full-featured products.
 
 ---
 
-## 📊 GitHub Stats
+## Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haseebjaved4212&show_icons=true&theme=radical" alt="Haseeb's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haseebjaved4212&theme=radical" alt="GitHub Streak" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseebjaved4212&layout=compact&theme=radical" alt="Top Languages" width="40%" />
-</p>
+Core
+- HTML5 · CSS3 · JavaScript (ES6+) · TypeScript
+
+Frameworks & Libraries
+- React · Next.js
+- Spline · Three.js (3D on the web)
+- GSAP · Framer Motion · Locomotive Scroll (motion & smooth scroll)
+
+Backend (learning)
+- Python (backend development in progress)
+
+Tools & Practices
+- Git · GitHub · Vercel · Responsive design · Accessibility · Performance optimization
 
 ---
+
+## Best Projects to Showcase
+These projects highlight UX, animation, 3D, and full-app design — ideal for portfolio demos and interviews.
+
+1. AI Image Enhancer
+   - Why showcase: Demonstrates integration of AI/ML-driven features, image processing, and polished UI.
+   - Repo: https://github.com/haseebjaved4212/ai-image-enhancer
+   - Demo idea: Before/after slider, upload flow, and performance optimizations.
+
+2. My Portfolio
+   - Why showcase: Your personal brand, case studies, project demos, and contact point.
+   - Live: https://my-portfolio-gamma-beryl-59.vercel.app/
+   - Repo: https://github.com/haseebjaved4212/my-portfolio
+
+3. CodeFlow
+   - Why showcase: Developer tooling / learning product with clean UI — shows engineering practices and organization.
+   - Repo: https://github.com/haseebjaved4212/codeflow
+
+4. Real Estate Agency Website
+   - Why showcase: Real-world UX (listings, search, filters) plus SEO-friendly static / SSR pages with Next.js.
+   - Repo: https://github.com/haseebjaved4212/real-estate-agency-website
+
+Tip: For each project include a short case study in the repo README describing goals, tech choices, challenges, and a link to the live demo.
+
+---
+
+## How I Work
+- Component-driven architecture (reusable, testable components)
+- Intentional motion: use animation to improve clarity and delight
+- Performance-first: measure, optimize bundle size and loading
+- Accessibility-minded: semantic HTML and keyboard-friendly interactions
+
+---
+
+## Contact & Socials
+
+- Portfolio: https://my-portfolio-gamma-beryl-59.vercel.app/  
+- LinkedIn: https://www.linkedin.com/in/haseeb-javed-0332b3341  
+- Instagram: https://www.instagram.com/haseeb_javed4212?igsh=MTV0cWI2aHh2dDRmbw==  
+- Facebook: https://www.facebook.com/share/1BU3pcCN8W/  
+- X: https://x.com/Haseebjaved4212?t=Be1nJmdR3ipCsHK3dylBTA&s=09  
+- Reddit: https://www.reddit.com/u/Haseeb4212/s/DqFxYkvD1V  
+- Email: contactimhaseeb@gmail.com
+
+---
+
+## GitHub Stats
+<!-- Replace theme if you prefer another style (e.g., dark, radical, tokyonight) -->
+![Haseeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=haseebjaved4212&show_icons=true&theme=tokyonight&count_private=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haseebjaved4212&layout=compact&theme=tokyonight)
+
+---
+
+## Want to collaborate?
+I’m open to frontend and full-stack collaborations, especially projects involving UI animations, 3D interactions, and performance optimization. If you have a project or opportunity, reach out via LinkedIn or email.
+
+---
+
+Thank you for visiting — let’s build something great. <!--
+README.md for GitHub profile
+Author: Haseeb
+Tone: Professional, modern, and clean
+Instructions: Copy this file to your profile repository (username: haseebjaved4212)
+-->
+
+# Hi, I’m Haseeb 👋
+Professional Frontend Developer building modern, accessible, and animated web experiences. I specialize in interactive UIs, 3D on the web, and performant frontends — and I'm currently expanding into backend development with Python.
+
+[Portfolio](https://my-portfolio-gamma-beryl-59.vercel.app/) • contactimhaseeb@gmail.com
+
+---
+
+<!-- Header Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/haseeb-javed-0332b3341)](https://www.linkedin.com/in/haseeb-javed-0332b3341) 
+[![Website](https://img.shields.io/badge/Portfolio-FF007A?style=flat&logo=vercel&logoColor=white&link=https://my-portfolio-gamma-beryl-59.vercel.app/)](https://my-portfolio-gamma-beryl-59.vercel.app/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contactimhaseeb@gmail.com)
+
+---
+
+## About
+- Name: Haseeb
+- Primary role: Frontend Developer (React / Next.js)
+- Currently learning: Python for backend development
+- Hobbies: Learning new technologies, coding, and gaming
+
+I build interactive, performant web apps with a focus on polished UI, animation, and smooth user experiences. I use modern frontend tools and progressively add backend capabilities to deliver full-featured products.
+
+---
+
+## Tech Stack
+
+Core
+- HTML5 · CSS3 · JavaScript (ES6+) · TypeScript
+
+Frameworks & Libraries
+- React · Next.js
+- Spline · Three.js (3D on the web)
+- GSAP · Framer Motion · Locomotive Scroll (motion & smooth scroll)
+
+Backend (learning)
+- Python (backend development in progress)
+
+Tools & Practices
+- Git · GitHub · Vercel · Responsive design · Accessibility · Performance optimization
+
+---
+
+## Best Projects to Showcase
+These projects highlight UX, animation, 3D, and full-app design — ideal for portfolio demos and interviews.
+
+1. AI Image Enhancer
+   - Why showcase: Demonstrates integration of AI/ML-driven features, image processing, and polished UI.
+   - Repo: https://github.com/haseebjaved4212/ai-image-enhancer
+   - Demo idea: Before/after slider, upload flow, and performance optimizations.
+
+2. My Portfolio
+   - Why showcase: Your personal brand, case studies, project demos, and contact point.
+   - Live: https://my-portfolio-gamma-beryl-59.vercel.app/
+   - Repo: https://github.com/haseebjaved4212/my-portfolio
+
+3. CodeFlow
+   - Why showcase: Developer tooling / learning product with clean UI — shows engineering practices and organization.
+   - Repo: https://github.com/haseebjaved4212/codeflow
+
+4. Real Estate Agency Website
+   - Why showcase: Real-world UX (listings, search, filters) plus SEO-friendly static / SSR pages with Next.js.
+   - Repo: https://github.com/haseebjaved4212/real-estate-agency-website
+
+Tip: For each project include a short case study in the repo README describing goals, tech choices, challenges, and a link to the live demo.
+
+---
+
+## How I Work
+- Component-driven architecture (reusable, testable components)
+- Intentional motion: use animation to improve clarity and delight
+- Performance-first: measure, optimize bundle size and loading
+- Accessibility-minded: semantic HTML and keyboard-friendly interactions
+
+---
+
+## Contact & Socials
+
+- Portfolio: https://my-portfolio-gamma-beryl-59.vercel.app/  
+- LinkedIn: https://www.linkedin.com/in/haseeb-javed-0332b3341  
+- Instagram: https://www.instagram.com/haseeb_javed4212?igsh=MTV0cWI2aHh2dDRmbw==  
+- Facebook: https://www.facebook.com/share/1BU3pcCN8W/  
+- X: https://x.com/Haseebjaved4212?t=Be1nJmdR3ipCsHK3dylBTA&s=09  
+- Reddit: https://www.reddit.com/u/Haseeb4212/s/DqFxYkvD1V  
+- Email: contactimhaseeb@gmail.com
+
+---
+
+## GitHub Stats
+<!-- Replace theme if you prefer another style (e.g., dark, radical, tokyonight) -->
+![Haseeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=haseebjaved4212&show_icons=true&theme=tokyonight&count_private=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haseebjaved4212&layout=compact&theme=tokyonight)
+
+---
+
+## Want to collaborate?
+I’m open to frontend and full-stack collaborations, especially projects involving UI animations, 3D interactions, and performance optimization. If you have a project or opportunity, reach out via LinkedIn or email.
+
+---
+
+Thank you for visiting — let’s build something great.
 
 > “Never stop learning, because life never stops teaching.”
 
