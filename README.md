@@ -57,10 +57,7 @@ const haseeb = {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haseebjaved4212&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseebjaved4212&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7"/>
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=haseebjaved4212&theme=tokyonight&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7" alt="GitHub Streak" />
@@ -72,11 +69,6 @@ const haseeb = {
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=haseebjaved4212&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-</div>
 
 <br/>
 
@@ -104,11 +96,6 @@ const haseeb = {
 
 <br/>
 
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/haseebjaved4212/haseebjaved4212/output/snake.svg" alt="Snake animation" />
-</div>
 
 ---
 
