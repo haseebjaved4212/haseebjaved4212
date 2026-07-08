@@ -1,140 +1,215 @@
+<!-- TERMINAL HEADER -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=700&height=30&lines=%24+initializing+profile...;%24+loading+haseeb.config.js+[OK];%24+mounting+skills+--all+[OK];%24+connecting+to+github.com+[OK];%24+ready.+welcome+to+my+terminal." alt="Boot sequence" />
+</div>
+
+<br/>
+
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Haseeb%20Javed&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Automation%20%7C%20Building%20the%20Future&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&width=600&lines=React.js+%7C+Next.js+%7C+TypeScript+Engineer;Python+%7C+Django+%7C+FastAPI+Developer;AI+Automation+%7C+n8n+Workflow+Builder;Three.js+%7C+GSAP+Animation+Enthusiast;Turning+ideas+into+scalable+products+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Social Badges -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-haseeb--javed-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://haseeb-javed-portfolio-eta.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haseeb-javed-0332b3341)
-[![GitHub](https://img.shields.io/badge/GitHub-Haseeb4212-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Haseeb4212)
-[![Email](https://img.shields.io/badge/Email-contactimhaseeb@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactimhaseeb@gmail.com)
-
-<br/>
-
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=Haseeb4212&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
+```bash
++---------------------------------------------------------------------------+
+|  haseeb@dev-machine  ~  terminal v2.0.1                        x  []  -  |
++---------------------------------------------------------------------------+
+|                                                                           |
+|  $ whoami                                                                 |
+|  > Haseeb Javed                                                           |
+|                                                                           |
+|  $ cat about.txt                                                          |
+|  > Full-Stack Developer  |  Karachi, Pakistan                             |
+|  > Frontend Architect    |  3D & Animation Enthusiast                     |
+|  > DevOps Explorer       |  Computer Networking Nerd                      |
+|  > Python Backend        |  Django, FastAPI, PostgreSQL                   |
+|  > Powered by: chai + curiosity + late nights                             |
+|                                                                           |
+|  $ echo $PHILOSOPHY                                                       |
+|  > "Write code that humans can read, not just machines."                  |
+|                                                                           |
++---------------------------------------------------------------------------+
+```
 
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=00FF41&center=true&vCenter=true&width=650&lines=React+%2B+Next.js+are+my+bread+%26+butter;Django+%2B+FastAPI+%3D+backend+done+right;Three.js+%26+GSAP+%3D+web+that+breathes;Strong+in+DevOps+%26+Computer+Networking;git+commit+-m+%22another+clean+build%22" alt="Typing" />
+</div>
+
+<br/>
+
 ---
 
-## 🧠 About Me
+## $ ls -la ./skills/
 
-```typescript
-const haseeb = {
-  name:       "Haseeb Javed",
-  location:   "Karachi, Pakistan 🇵🇰",
-  role:       "Full Stack Developer & AI Automation Engineer",
-  education:  "Master's in Islamic Studies (Expected 2027)",
-  portfolio:  "https://haseeb-javed-portfolio-eta.vercel.app/",
+<div align="center">
 
-  currently:  [
-    "Building production-grade full stack applications",
-    "Exploring AI Automation workflows with n8n",
-    "Expanding into backend with Python & .NET",
-    "Crafting immersive UIs with Three.js & GSAP"
-  ],
-
-  openTo:     [
-    "Software Engineer",
-    "Full Stack Developer",
-    "Frontend Developer",
-    "Python Developer",
-    "AI Automation Engineer"
-  ],
-
-  funFact:    "I blend Islamic Studies with cutting-edge tech 📖💻"
-};
+```bash
++---------------------------------------------------------------------------+
+|  haseeb@dev-machine  ~  skills                                 x  []  -  |
++---------------------------------------------------------------------------+
+|                                                                           |
+|  $ ls -la ./frontend/                                                     |
+|                                                                           |
+|  HTML5           [####################]  100%   MASTERED                 |
+|  CSS3            [####################]  100%   MASTERED                 |
+|  JavaScript      [####################]   95%   MASTERED                 |
+|  TypeScript      [##################--]   90%   STRONG                   |
+|  React.js        [##################--]   90%   STRONG                   |
+|  Next.js         [#################---]   85%   STRONG                   |
+|  TailwindCSS     [####################]   95%   MASTERED                 |
+|  Redux Toolkit   [################----]   80%   STRONG                   |
+|  Three.js        [##############------]   70%   GROWING                  |
+|  GSAP            [###############-----]   75%   GROWING                  |
+|  Spline          [##############------]   70%   GROWING                  |
+|                                                                           |
+|  $ ls -la ./backend/                                                      |
+|                                                                           |
+|  Python          [####################]   95%   MASTERED                 |
+|  Django          [##################--]   90%   MASTERED                 |
+|  FastAPI         [##################--]   90%   MASTERED                 |
+|  PostgreSQL      [##################--]   90%   MASTERED                 |
+|                                                                           |
+|  $ ls -la ./devops-and-infra/                                             |
+|                                                                           |
+|  Git / GitHub    [####################]   95%   MASTERED                 |
+|  Docker          [###############-----]   75%   STRONG                   |
+|  Linux           [################----]   80%   STRONG                   |
+|  Networking      [################----]   80%   STRONG                   |
+|                                                                           |
++---------------------------------------------------------------------------+
 ```
 
+</div>
+
+<br/>
+
 ---
 
-## 🛠️ Tech Stack
+## $ cat tech-stack.json
 
-### Frontend
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<div align="center">
+
+### -- Frontend Core
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Backend
+### -- Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+### -- Creative & 3D
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+![Spline](https://img.shields.io/badge/Spline-6366F1?style=for-the-badge&logoColor=white)
+
+### -- Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### DevOps & Tools
+### -- DevOps & Infra
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-4A90D9?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### AI & Automation
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![AI Automation](https://img.shields.io/badge/AI%20Automation-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white)
-
-
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=haseebjaved4212&theme=midnight-purple&hide_border=true&background=0D1117&ring=7C3AED&fire=FF6B35&currStreakLabel=7C3AED&border_radius=12" height="180"/>
+![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
 
 </div>
-
----
-
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=haseebjaved4212&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FF6B35&area=true&area_color=7C3AED"/>
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🚀%20Portfolio-Visit%20Now-7C3AED?style=for-the-badge)](https://haseeb-javed-portfolio-eta.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haseeb-javed-0332b3341)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactimhaseeb@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haseebjaved4212)
 
 <br/>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+---
+
+## $ ./stats --fetch github
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=haseebjaved4212&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00CC33&rank_icon=github" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haseebjaved4212&theme=dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00CC33&currStreakLabel=00FF41&sideLabels=00CC33&dates=00AA22&currStreakNum=00FF41&sideNums=00FF41" width="49%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseebjaved4212&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00CC33&langs_count=8" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haseebjaved4212&theme=high-contrast&hide_border=true&bg_color=0D1117&color=00FF41&line=00CC33&point=00FF41" width="49%" />
+</div>
+
+<br/>
+
+---
+
+## $ ping --all social-links
+
+<div align="center">
+
+```bash
++---------------------------------------------------------------------------+
+|  haseeb@dev-machine  ~  network                                x  []  -  |
++---------------------------------------------------------------------------+
+|                                                                           |
+|  $ ping portfolio...   [OK]  haseeb-javed-portfolio-95457129746...       |
+|  $ ping linkedin...    [OK]  /in/haseeb-javed-0332b3341                  |
+|  $ ping instagram...   [OK]  @haseeb_javed4212                           |
+|  $ ping facebook...    [OK]  /share/1BU3pcCN8W                           |
+|  $ ping x...           [OK]  @Haseebjaved4212                            |
+|  $ ping reddit...      [OK]  u/Haseeb4212                                |
+|  $ ping email...       [OK]  contactimhaseeb@gmail.com                   |
+|                                                                           |
+|  7/7 packets transmitted, 7 received, 0% packet loss                     |
+|                                                                           |
++---------------------------------------------------------------------------+
+```
 
 </div>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=vercel&logoColor=000000)](https://haseeb-javed-portfolio-95457129746.asia-southeast1.run.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/haseeb-javed-0332b3341)
+[![Instagram](https://img.shields.io/badge/Instagram-00FF41?style=for-the-badge&logo=instagram&logoColor=000000)](https://www.instagram.com/haseeb_javed4212)
+[![Facebook](https://img.shields.io/badge/Facebook-00FF41?style=for-the-badge&logo=facebook&logoColor=000000)](https://www.facebook.com/share/1BU3pcCN8W/)
+[![X](https://img.shields.io/badge/X-00FF41?style=for-the-badge&logo=x&logoColor=000000)](https://x.com/Haseebjaved4212)
+[![Reddit](https://img.shields.io/badge/Reddit-00FF41?style=for-the-badge&logo=reddit&logoColor=000000)](https://www.reddit.com/u/Haseeb4212)
+[![Email](https://img.shields.io/badge/Email-00FF41?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:contactimhaseeb@gmail.com)
+
+</div>
+
+<br/>
+
+---
+
+## $ tail -f contribution.log
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/haseebjaved4212/haseebjaved4212/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</div>
+
+<br/>
 
 ---
 
 <div align="center">
-  <i>⚡ "Code is not just syntax — it's the bridge between imagination and reality."</i>
-  <br/><br/>
-  <b>Open to exciting opportunities — let's build something great together! 🚀</b>
+
+```bash
++---------------------------------------------------------------------------+
+|  haseeb@dev-machine  ~                                         x  []  -  |
++---------------------------------------------------------------------------+
+|                                                                           |
+|  $ uptime                                                                 |
+|  > Still building. Still shipping. No plans to stop.                      |
+|                                                                           |
+|  $ exit                                                                   |
+|  > Session ended. Thanks for visiting. -- Haseeb Javed                   |
+|                                                                           |
++---------------------------------------------------------------------------+
+```
+
+
+
 </div>
