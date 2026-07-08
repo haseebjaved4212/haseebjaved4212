@@ -184,15 +184,6 @@
 
 ---
 
-## $ tail -f contribution.log
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/haseebjaved4212/haseebjaved4212/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</div>
-
-<br/>
-
----
 
 <div align="center">
 
