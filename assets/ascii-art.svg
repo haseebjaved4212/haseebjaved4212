@@ -1,0 +1,507 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 800" width="840" height="800">
+  <rect width="100%" height="100%" fill="#0d1117"/>
+  <style>
+    .txt { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 14px; fill: #c9d1d9; white-space: pre; }
+  </style>
+  <clipPath id="cp0">
+    <rect x="0" y="0" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="0.0s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="14" class="txt" clip-path="url(#cp0)" xml:space="preserve">--:..   ..........................................                          ...:==+*####%%%#########</text>
+  <rect x="0" y="2" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="0.0s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="0.0s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp1">
+    <rect x="0" y="16" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="0.06s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="30" class="txt" clip-path="url(#cp1)" xml:space="preserve">--::..    .......... ....................  ...                                .:==+**#########****##</text>
+  <rect x="0" y="18" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="0.06s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="0.06s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp2">
+    <rect x="0" y="32" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="0.12s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="46" class="txt" clip-path="url(#cp2)" xml:space="preserve">--::::...............  ................... ...                                .:==+*###########*****</text>
+  <rect x="0" y="34" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="0.12s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="0.12s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp3">
+    <rect x="0" y="48" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="0.18s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="62" class="txt" clip-path="url(#cp3)" xml:space="preserve">---:::...................................                                     .:==+*#######%####**##</text>
+  <rect x="0" y="50" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="0.18s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="0.18s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp4">
+    <rect x="0" y="64" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="0.24s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="78" class="txt" clip-path="url(#cp4)" xml:space="preserve">---::::............... ..................                                     .:==+*#####%%%%#######</text>
+  <rect x="0" y="66" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="0.24s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="0.24s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp5">
+    <rect x="0" y="80" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="0.3s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="94" class="txt" clip-path="url(#cp5)" xml:space="preserve">---:::::.................................                                     .:==+*###%%%%%########</text>
+  <rect x="0" y="82" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="0.3s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="0.3s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp6">
+    <rect x="0" y="96" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="0.36s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="110" class="txt" clip-path="url(#cp6)" xml:space="preserve">---::::.................................                                      .:==+*###%%%%%########</text>
+  <rect x="0" y="98" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="0.36s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="0.36s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp7">
+    <rect x="0" y="112" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="0.42s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="126" class="txt" clip-path="url(#cp7)" xml:space="preserve">---::::.................................                                      .:==+*##%%%%%%########</text>
+  <rect x="0" y="114" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="0.42s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="0.42s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp8">
+    <rect x="0" y="128" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="0.48s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="142" class="txt" clip-path="url(#cp8)" xml:space="preserve">----:::::................................                                     .:==+*##%%%%%%%#######</text>
+  <rect x="0" y="130" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="0.48s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="0.48s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp9">
+    <rect x="0" y="144" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="0.54s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="158" class="txt" clip-path="url(#cp9)" xml:space="preserve">----::::::...................................                                 .:==+*##%%%%%%%%%%%%%%</text>
+  <rect x="0" y="146" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="0.54s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="0.54s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp10">
+    <rect x="0" y="160" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="0.6s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="174" class="txt" clip-path="url(#cp10)" xml:space="preserve">----:::::::...................................                                .:==+*##%%%%%%%%%%%%%%</text>
+  <rect x="0" y="162" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="0.6s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="0.6s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp11">
+    <rect x="0" y="176" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="0.6599999999999999s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="190" class="txt" clip-path="url(#cp11)" xml:space="preserve">----::::::::....................................                              .:==+*#%%%%%%%%%%%%%%%</text>
+  <rect x="0" y="178" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="0.6599999999999999s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="0.6599999999999999s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp12">
+    <rect x="0" y="192" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="0.72s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="206" class="txt" clip-path="url(#cp12)" xml:space="preserve">=--::::::::....................................   ..::--:.                    .:==+*#%%%%%%%%%%%%%%%</text>
+  <rect x="0" y="194" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="0.72s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="0.72s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp13">
+    <rect x="0" y="208" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="0.78s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="222" class="txt" clip-path="url(#cp13)" xml:space="preserve">==--::::::::....................................:+*####%##+=-:..              .:==+*#%%%%%%%%%%%%%%%</text>
+  <rect x="0" y="210" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="0.78s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="0.78s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp14">
+    <rect x="0" y="224" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="0.84s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="238" class="txt" clip-path="url(#cp14)" xml:space="preserve">++=-::::::::.:...............................-+##%#%#%%%%%%%%%##*=.           .:==+*#%%%%%%%%%%%%%%%</text>
+  <rect x="0" y="226" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="0.84s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="0.84s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp15">
+    <rect x="0" y="240" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="0.8999999999999999s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="254" class="txt" clip-path="url(#cp15)" xml:space="preserve">++=-::::::::..............................:=*#%%###%%%%%%%%%%%%%%%#=.         .:==+*#%%%%%%%%%%%%%%%</text>
+  <rect x="0" y="242" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="0.8999999999999999s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="0.8999999999999999s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp16">
+    <rect x="0" y="256" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="0.96s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="270" class="txt" clip-path="url(#cp16)" xml:space="preserve">++=-:::::::............................:=*#%%#####%%%%%%%%%%%%%%%%%%#-        .:==+*#%%%%%%%%%%%%%%%</text>
+  <rect x="0" y="258" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="0.96s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="0.96s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp17">
+    <rect x="0" y="272" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="1.02s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="286" class="txt" clip-path="url(#cp17)" xml:space="preserve">++=-:::::::..........................-+##########%%%%%%%%%%%%%%%%%%%%%+.      .:==+*#%%%%%%%%%%%%%%%</text>
+  <rect x="0" y="274" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="1.02s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="1.02s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp18">
+    <rect x="0" y="288" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="1.08s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="302" class="txt" clip-path="url(#cp18)" xml:space="preserve">+++=-:::::::.......................-*##############%%%%%%%%%%%%%%%%%%%%+.     .:==+*#%%%%%%%%%%%%%%%</text>
+  <rect x="0" y="290" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="1.08s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="1.08s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp19">
+    <rect x="0" y="304" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="1.14s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="318" class="txt" clip-path="url(#cp19)" xml:space="preserve">++++==---==-::...................:+################%%%%%%%%%%%%%%%%%%%%%+.    .:=++*#%%%%%%%%%%%%%%%</text>
+  <rect x="0" y="306" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="1.14s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="1.14s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp20">
+    <rect x="0" y="320" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="1.2s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="334" class="txt" clip-path="url(#cp20)" xml:space="preserve">++++++++**++=---::::...........:+#############%#####%%%%%%%%%%%%%%%%%%%%%+    .:=++*#%%%%%#%%%%%%%%%</text>
+  <rect x="0" y="322" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="1.2s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="1.2s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp21">
+    <rect x="0" y="336" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="1.26s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="350" class="txt" clip-path="url(#cp21)" xml:space="preserve">++++*******+++==----::.......:+#%%%%%%%%%#####%%%%###%%%%%%%%%%%%%%%%%%%%%+. ..:=++*#%%%%%%%%%%%%%%%</text>
+  <rect x="0" y="338" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="1.26s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="1.26s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp22">
+    <rect x="0" y="352" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="1.3199999999999998s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="366" class="txt" clip-path="url(#cp22)" xml:space="preserve">=++++*******+++===-=--::....-#%%%%%%%##*++==++++*##%%%%%%%%%%%%%%%%%%%%%%%%#=..-=+*##%%%%%%%%%%%%%%%</text>
+  <rect x="0" y="354" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="1.3199999999999998s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="1.3199999999999998s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp23">
+    <rect x="0" y="368" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="1.38s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="382" class="txt" clip-path="url(#cp23)" xml:space="preserve">====*********+++=------::..:#%%%%#*++=--::::-=--=-=+##%%%%%%%%%%%%%%%%%%%%%%%*:-++*##%%%%%%%%%%%%%%%</text>
+  <rect x="0" y="370" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="1.38s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="1.38s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp24">
+    <rect x="0" y="384" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="1.44s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="398" class="txt" clip-path="url(#cp24)" xml:space="preserve">====***+*****+++==-----:...-%%%%%%#*=::::::-:-:--:---=*#%%%%%%%%%%%%%%%%%%%%%%#-++*##%%%%%%%%%%%%%%%</text>
+  <rect x="0" y="386" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="1.44s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="1.44s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp25">
+    <rect x="0" y="400" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="1.5s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="414" class="txt" clip-path="url(#cp25)" xml:space="preserve">--=+**++*********+=-----:..-%%%%%%%#=::::::::-:-::-=-=--+#%%%%%%%%%%%%%%%%%%%%%*++*##%%%%%%%%%%%%%%%</text>
+  <rect x="0" y="402" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="1.5s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="1.5s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp26">
+    <rect x="0" y="416" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="1.56s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="430" class="txt" clip-path="url(#cp26)" xml:space="preserve">==++*******######**=----::.:#%%%%%%+----::.:::::-===-:---+#%%%%%%%%%%%%%%%%%%%%%***##%%%%%%%%%%%%%%%</text>
+  <rect x="0" y="418" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="1.56s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="1.56s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp27">
+    <rect x="0" y="432" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="1.6199999999999999s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="446" class="txt" clip-path="url(#cp27)" xml:space="preserve">++**##*############*++++=-::+%%%%%%#=----:-+---++-.-+**##=+*%%%%%%%%%%%%%%%%%%%%***#%%%%%%%%%%%%%%%%</text>
+  <rect x="0" y="434" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="1.6199999999999999s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="1.6199999999999999s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp28">
+    <rect x="0" y="448" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="1.68s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="462" class="txt" clip-path="url(#cp28)" xml:space="preserve">**###############%%##****+=-=#%%%#%%=::-+*#*-..-*=:--:--:.==*%%%%%%%%%%%%%%%%%%%#**#%%%%%%%%%%%%%%%%</text>
+  <rect x="0" y="450" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="1.68s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="1.68s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp29">
+    <rect x="0" y="464" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="1.74s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="478" class="txt" clip-path="url(#cp29)" xml:space="preserve">############%%%%%%%%#####**+=+%%%##%*:...::+-...-+=-:..::=+=+#%%%%%%%%%%%%%%%%%%#**#%%%%%%%%%%%%%%%%</text>
+  <rect x="0" y="466" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="1.74s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="1.74s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp30">
+    <rect x="0" y="480" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="1.7999999999999998s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="494" class="txt" clip-path="url(#cp30)" xml:space="preserve">##########%%%%%%%%%%#######**+*%%%#**+-:::-:...:--:::---=++*#*#%%%%%%%%%%%%%%%%%%#*#%%%%%%%%%%%%%%%%</text>
+  <rect x="0" y="482" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="1.7999999999999998s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="1.7999999999999998s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp31">
+    <rect x="0" y="496" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="1.8599999999999999s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="510" class="txt" clip-path="url(#cp31)" xml:space="preserve">#####%%%%%%%%%%%%%%%%%########*#%%%%###*+-. :::--.  ....:=+++**#%%%%%%%%%%%%%%%%%#*#%%%%%%%%%%%%%%%%</text>
+  <rect x="0" y="498" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="1.8599999999999999s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="1.8599999999999999s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp32">
+    <rect x="0" y="512" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="1.92s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="526" class="txt" clip-path="url(#cp32)" xml:space="preserve">##%%%%%%%%%%%%%%%%%%%####%########%%%##**:   .-=    ....:-===+*#%%%%%%%%%%%%%%%%%##%%%%%%%%%%%%%%%%%</text>
+  <rect x="0" y="514" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="1.92s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="1.92s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp33">
+    <rect x="0" y="528" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="1.98s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="542" class="txt" clip-path="url(#cp33)" xml:space="preserve">%%%%%%%%%%%%%%%###%%%%%%%%%%%%%#########*+::. :-:::::--=======*##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</text>
+  <rect x="0" y="530" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="1.98s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="1.98s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp34">
+    <rect x="0" y="544" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="2.04s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="558" class="txt" clip-path="url(#cp34)" xml:space="preserve">%%%%%%%%%%%%##%%%%%%%%%%%%%%%%%%####%%#****##*+:...:-=+*#***#**####%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</text>
+  <rect x="0" y="546" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="2.04s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="2.04s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp35">
+    <rect x="0" y="560" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="2.1s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="574" class="txt" clip-path="url(#cp35)" xml:space="preserve">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#####%%%%#*+=+**####%%###%%%##%#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#</text>
+  <rect x="0" y="562" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="2.1s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="2.1s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp36">
+    <rect x="0" y="576" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="2.16s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="590" class="txt" clip-path="url(#cp36)" xml:space="preserve">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%##%%%%######%%%%%%%%%%%%%%%%%%%%%#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#</text>
+  <rect x="0" y="578" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="2.16s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="2.16s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp37">
+    <rect x="0" y="592" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="2.2199999999999998s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="606" class="txt" clip-path="url(#cp37)" xml:space="preserve">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</text>
+  <rect x="0" y="594" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="2.2199999999999998s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="2.2199999999999998s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp38">
+    <rect x="0" y="608" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="2.28s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="622" class="txt" clip-path="url(#cp38)" xml:space="preserve">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#%%%%##%%%%%%%%%%%%%%%%%%%%%%%%%%%%</text>
+  <rect x="0" y="610" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="2.28s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="2.28s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp39">
+    <rect x="0" y="624" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="2.34s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="638" class="txt" clip-path="url(#cp39)" xml:space="preserve">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#%%%%%%%%%%%%%%%%%%%%%%%%%%%</text>
+  <rect x="0" y="626" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="2.34s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="2.34s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp40">
+    <rect x="0" y="640" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="2.4s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="654" class="txt" clip-path="url(#cp40)" xml:space="preserve">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#%%%%%%%%%%%%%%%%%%%%%%%##%</text>
+  <rect x="0" y="642" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="2.4s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="2.4s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp41">
+    <rect x="0" y="656" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="2.46s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="670" class="txt" clip-path="url(#cp41)" xml:space="preserve">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%##%</text>
+  <rect x="0" y="658" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="2.46s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="2.46s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp42">
+    <rect x="0" y="672" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="2.52s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="686" class="txt" clip-path="url(#cp42)" xml:space="preserve">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</text>
+  <rect x="0" y="674" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="2.52s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="2.52s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp43">
+    <rect x="0" y="688" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="2.58s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="702" class="txt" clip-path="url(#cp43)" xml:space="preserve">%%%%%%%%%%%%%%%%%%%%%%##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</text>
+  <rect x="0" y="690" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="2.58s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="2.58s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp44">
+    <rect x="0" y="704" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="2.6399999999999997s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="718" class="txt" clip-path="url(#cp44)" xml:space="preserve">%%%%%%%%%%%%%%%%%%%%%##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#</text>
+  <rect x="0" y="706" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="2.6399999999999997s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="2.6399999999999997s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp45">
+    <rect x="0" y="720" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="2.6999999999999997s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="734" class="txt" clip-path="url(#cp45)" xml:space="preserve">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#</text>
+  <rect x="0" y="722" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="2.6999999999999997s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="2.6999999999999997s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp46">
+    <rect x="0" y="736" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="2.76s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="750" class="txt" clip-path="url(#cp46)" xml:space="preserve">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%###%%%##%%%%%%%%%%##</text>
+  <rect x="0" y="738" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="2.76s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="2.76s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp47">
+    <rect x="0" y="752" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="2.82s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="766" class="txt" clip-path="url(#cp47)" xml:space="preserve">%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%##########%%%%#%%%#%%</text>
+  <rect x="0" y="754" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="2.82s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="2.82s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp48">
+    <rect x="0" y="768" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="2.88s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="782" class="txt" clip-path="url(#cp48)" xml:space="preserve">%%%%%%%%%%%%%%%%%%%%%%%%%%%##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%####%%%%%#########%%%%%%%%%%%%</text>
+  <rect x="0" y="770" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="2.88s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="2.88s" dur="0.06s" />
+  </rect>
+  <clipPath id="cp49">
+    <rect x="0" y="784" width="0" height="16">
+      <animate attributeName="width" from="0" to="840" begin="2.94s" dur="0.06s" fill="freeze" />
+    </rect>
+  </clipPath>
+  <text x="0" y="798" class="txt" clip-path="url(#cp49)" xml:space="preserve">%%%%%%%%%%%%%%%%%%%%%%%%%%%#%%%%%%%%%%%%%%%%##%#%%%%%%########%%%%%%%####%%%%%%#########%%%%%%%%%%%%</text>
+  <rect x="0" y="786" width="8.4" height="14" fill="#c9d1d9" opacity="0">
+    <animate attributeName="opacity" from="1" to="1" begin="2.94s" dur="0.06s" />
+    <animate attributeName="x" from="0" to="840" begin="2.94s" dur="0.06s" fill="freeze" />
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" begin="3.0s" />
+  </rect>
+</svg>

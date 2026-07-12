@@ -1,8 +1,14 @@
+<!-- ASCII ART HERO -->
+<div align="center">
+  <img src="./assets/ascii-art.svg" alt="Terminal ASCII Art" width="700"/>
+</div>
+
+<br/>
+
 <!-- TERMINAL HEADER -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=700&height=30&lines=%24+initializing+profile...;%24+loading+haseeb.config.js+[OK];%24+mounting+skills+--all+[OK];%24+connecting+to+github.com+[OK];%24+ready.+welcome+to+my+terminal." alt="Boot sequence" />
 </div>
-
 <br/>
 
 <div align="center">
@@ -126,23 +132,6 @@
 
 ---
 
-## $ ./stats --fetch github
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haseebjaved4212&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00CC33&rank_icon=github" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haseebjaved4212&theme=dark&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00CC33&currStreakLabel=00FF41&sideLabels=00CC33&dates=00AA22&currStreakNum=00FF41&sideNums=00FF41" width="49%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseebjaved4212&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00CC33&langs_count=8" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haseebjaved4212&theme=high-contrast&hide_border=true&bg_color=0D1117&color=00FF41&line=00CC33&point=00FF41" width="49%" />
-</div>
-
-<br/>
-
----
 
 ## $ ping --all social-links
 
