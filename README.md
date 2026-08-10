@@ -1,195 +1,116 @@
-<!-- ASCII ART HERO -->
-<div align="center">
-  <img src="./assets/ascii-art.svg" alt="Terminal ASCII Art" width="700"/>
-</div>
-
-<br/>
-
-<!-- TERMINAL HEADER -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=13&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=700&height=30&lines=%24+initializing+profile...;%24+loading+haseeb.config.js+[OK];%24+mounting+skills+--all+[OK];%24+connecting+to+github.com+[OK];%24+ready.+welcome+to+my+terminal." alt="Boot sequence" />
-</div>
-<br/>
-
 <div align="center">
 
-```bash
-+---------------------------------------------------------------------------+
-|  haseeb@dev-machine  ~  terminal v2.0.1                        x  []  -  |
-+---------------------------------------------------------------------------+
-|                                                                           |
-|  $ whoami                                                                 |
-|  > Haseeb Javed                                                           |
-|                                                                           |
-|  $ cat about.txt                                                          |
-|  > Full-Stack Developer  |  Karachi, Pakistan                             |
-|  > Frontend Architect    |  3D & Animation Enthusiast                     |
-|  > DevOps Explorer       |  Computer Networking Nerd                      |
-|  > Python Backend        |  Django, FastAPI, PostgreSQL                   |
-|  > Powered by: chai + curiosity + late nights                             |
-|                                                                           |
-|  $ echo $PHILOSOPHY                                                       |
-|  > "Write code that humans can read, not just machines."                  |
-|                                                                           |
-+---------------------------------------------------------------------------+
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Haseeb%20Javed&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%2F%20Next.js%20%2F%20Python&descAlignY=58&descSize=18" width="100%"/>
+
+<a href="https://www.linkedin.com/">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Building+interactive+UIs+with+React+%26+Next.js;Shipping+scalable+APIs+with+Django+%26+FastAPI;Exploring+AI-powered+systems+and+automation;Currently+building+AniTrack+%F0%9F%8E%AC" alt="Typing SVG" />
+</a>
 
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=00FF41&center=true&vCenter=true&width=650&lines=React+%2B+Next.js+are+my+bread+%26+butter;Django+%2B+FastAPI+%3D+backend+done+right;Three.js+%26+GSAP+%3D+web+that+breathes;Strong+in+DevOps+%26+Computer+Networking;git+commit+-m+%22another+clean+build%22" alt="Typing" />
-</div>
-
-<br/>
+<p align="center">
+  <a href="mailto:contactimhaseeb@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/haseeb-javed-0332b3341/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/haseebjaved4212"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://my-portfolio-3-pearl.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
 ---
 
-## $ ls -la ./skills/
+### 👋 About Me
 
-<div align="center">
+-  Software Engineer specializing in **modern frontend architectures** and **scalable backend systems**
+-  Hands-on experience with **AI-powered systems** and end-to-end deployment
+-  I care about building production-grade apps, not just demos
+-  Based in Karachi, Pakistan
 
-```bash
-+---------------------------------------------------------------------------+
-|  haseeb@dev-machine  ~  skills                                 x  []  -  |
-+---------------------------------------------------------------------------+
-|                                                                           |
-|  $ ls -la ./frontend/                                                     |
-|                                                                           |
-|  HTML5           [####################]  100%   MASTERED                 |
-|  CSS3            [####################]  100%   MASTERED                 |
-|  JavaScript      [####################]   95%   MASTERED                 |
-|  TypeScript      [##################--]   90%   STRONG                   |
-|  React.js        [##################--]   90%   STRONG                   |
-|  Next.js         [#################---]   85%   STRONG                   |
-|  TailwindCSS     [####################]   95%   MASTERED                 |
-|  Redux Toolkit   [################----]   80%   STRONG                   |
-|  Three.js        [##############------]   70%   GROWING                  |
-|  GSAP            [###############-----]   75%   GROWING                  |
-|  Spline          [##############------]   70%   GROWING                  |
-|                                                                           |
-|  $ ls -la ./backend/                                                      |
-|                                                                           |
-|  Python          [####################]   95%   MASTERED                 |
-|  Django          [##################--]   90%   MASTERED                 |
-|  FastAPI         [##################--]   90%   MASTERED                 |
-|  PostgreSQL      [##################--]   90%   MASTERED                 |
-|                                                                           |
-|  $ ls -la ./devops-and-infra/                                             |
-|                                                                           |
-|  Git / GitHub    [####################]   95%   MASTERED                 |
-|  Docker          [###############-----]   75%   STRONG                   |
-|  Linux           [################----]   80%   STRONG                   |
-|  Networking      [################----]   80%   STRONG                   |
-|                                                                           |
-+---------------------------------------------------------------------------+
-```
-
-</div>
-
-<br/>
 
 ---
 
-## $ cat tech-stack.json
+###  Tech Stack
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,redux,tailwind,bootstrap,python,django,fastapi,nestjs,postgres,sqlite,git,docker,linux&perline=9" />
+</p>
 
-### -- Frontend Core
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### -- Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-
-### -- Creative & 3D
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-![Spline](https://img.shields.io/badge/Spline-6366F1?style=for-the-badge&logoColor=white)
-
-### -- Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### -- DevOps & Infra
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
-
-</div>
-
+<details>
+<summary><b> Full breakdown</b></summary>
 <br/>
+
+**Languages**
+<br/>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frontend**
+<br/>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Backend**
+<br/>
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+
+**Databases**
+<br/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Infrastructure & Tools**
+<br/>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Networking](https://img.shields.io/badge/Computer_Networking-2C5364?style=flat-square&logo=cisco&logoColor=white)
+
+</details>
 
 ---
 
 
-## $ ping --all social-links
 
-<div align="center">
-
-```bash
-+---------------------------------------------------------------------------+
-|  haseeb@dev-machine  ~  network                                x  []  -  |
-+---------------------------------------------------------------------------+
-|                                                                           |
-|  $ ping portfolio...   [OK]  haseeb-javed-portfolio-95457129746...       |
-|  $ ping linkedin...    [OK]  /in/haseeb-javed-0332b3341                  |
-|  $ ping instagram...   [OK]  @haseeb_javed4212                           |
-|  $ ping facebook...    [OK]  /share/1BU3pcCN8W                           |
-|  $ ping x...           [OK]  @Haseebjaved4212                            |
-|  $ ping reddit...      [OK]  u/Haseeb4212                                |
-|  $ ping email...       [OK]  contactimhaseeb@gmail.com                   |
-|                                                                           |
-|  7/7 packets transmitted, 7 received, 0% packet loss                     |
-|                                                                           |
-+---------------------------------------------------------------------------+
-```
-
-</div>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=vercel&logoColor=000000)](https://haseeb-javed-portfolio-230811390760.asia-southeast1.run.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/haseeb-javed-0332b3341)
-[![Instagram](https://img.shields.io/badge/Instagram-00FF41?style=for-the-badge&logo=instagram&logoColor=000000)](https://www.instagram.com/haseeb_javed4212)
-[![Facebook](https://img.shields.io/badge/Facebook-00FF41?style=for-the-badge&logo=facebook&logoColor=000000)](https://www.facebook.com/share/1BU3pcCN8W/)
-[![X](https://img.shields.io/badge/X-00FF41?style=for-the-badge&logo=x&logoColor=000000)](https://x.com/Haseebjaved4212)
-[![Reddit](https://img.shields.io/badge/Reddit-00FF41?style=for-the-badge&logo=reddit&logoColor=000000)](https://www.reddit.com/u/Haseeb4212)
-[![Email](https://img.shields.io/badge/Email-00FF41?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:contactimhaseeb@gmail.com)
-
-</div>
-
+** More on my profile**
 <br/>
+<i>Always shipping something</i>
+
+Check out the pinned repos below for the latest work, including ongoing experiments with AI automation and interactive UI.
+
+[![View all repos](https://img.shields.io/badge/View_all_repos-2C5364?style=flat-square&logo=github&logoColor=white)](https://github.com/haseebjaved4212?tab=repositories)
+
+</td>
+</tr>
+</table>
 
 ---
 
 
 <div align="center">
 
-```bash
-+---------------------------------------------------------------------------+
-|  haseeb@dev-machine  ~                                         x  []  -  |
-+---------------------------------------------------------------------------+
-|                                                                           |
-|  $ uptime                                                                 |
-|  > Still building. Still shipping. No plans to stop.                      |
-|                                                                           |
-|  $ exit                                                                   |
-|  > Session ended. Thanks for visiting. -- Haseeb Javed                   |
-|                                                                           |
-+---------------------------------------------------------------------------+
-```
+###  Let's Connect
+
+<a href="mailto:contactimhaseeb@gmail.com"><img src="https://img.shields.io/badge/Email_me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/haseebjaved4212"><img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
 
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
 
 </div>
