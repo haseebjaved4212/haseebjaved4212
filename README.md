@@ -86,7 +86,7 @@
 
 
 
-** More on my profile**
+**More on my profile**
 <br/>
 <i>Always shipping something</i>
 
