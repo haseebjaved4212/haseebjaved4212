@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Haseeb%20Javed&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%2F%20Next.js%20%2F%20Python&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Building+interactive+UIs+with+React+%26+Next.js;Shipping+scalable+APIs+with+Django+%26+FastAPI;Exploring+AI-powered+systems+and+automation;Currently+building+Jarvis-2.0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Building+interactive+UIs+with+React+%26+Next.js;Shipping+scalable+APIs+with+Django+%26+FastAPI;Exploring+AI-powered+systems+and+automation;Currently+Learning+AI/ML" alt="Typing SVG" />
 </a>
 
 </div>
