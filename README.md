@@ -18,8 +18,7 @@
 
 > What I actually enjoy is finding a problem people deal with every day and building something that fixes it properly. That's how **Raahi** happened, a freelance Android app that routes people through safer paths at night using real signals like lighting, crime tendency, and live incident reports, instead of just picking the fastest route and calling it a day. Same story with **AirPods-Controle**, an open-source app I built because AirPods lose half their features the moment you're off iOS, so I rebuilt that functionality myself: battery tracking, ANC switching, even a custom audio equalizer.
 >
-> I'm also finishing my Master's in Islamic Studies while doing all of this, which taught me more about focus and finishing what I start than any bootcamp could have.
->
+
 > If you're building something and need someone who cares whether it actually works, not just whether it ships, feel free to reach out.
 
 <br/>
