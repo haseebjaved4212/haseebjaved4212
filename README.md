@@ -36,7 +36,7 @@
 ### `// stack`
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,redux,django,fastapi,nodejs,nestjs,postgres,mongodb,redis,docker,git" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,redux,django,fastapi,nodejs,nestjs,postgres,mongodb,redis,docker,linux,sqlite,tailwindcss,bootstrap,git" />
 </p>
 
 <div align="center">
