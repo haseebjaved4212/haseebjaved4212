@@ -1,7 +1,8 @@
 # Haseeb Javed
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050d1a,50:0a2540,100:00d2ff&height=260&section=header&text=Hi,%20I'm%20Haseeb%20👋&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%26%20AI%20Software%20Engineer%20%E2%80%A2%20122%2B%20Repositories&descFontSize=20&descColor=7ce0ff&descAlignY=58" width="100%" alt="Haseeb Javed Banner" />
+  <img src="./assets/image.png" width="100%" alt="Hi, I'm Haseeb - Full-Stack & AI Software Engineer" />
+</div>
 
   <p align="center">
     <strong>Building production-grade web interfaces, scalable backend APIs, and autonomous AI agent workflows.</strong>
