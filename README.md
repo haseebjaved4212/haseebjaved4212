@@ -1,5 +1,8 @@
-# Haseeb Javed
 
+<div align="center">
+  
+# Haseeb Javed
+ </div>
 <div align="center">
   <img src="./assets/image.png" width="100%" alt="Hi, I'm Haseeb - Full-Stack & AI Software Engineer" />
 </div>
