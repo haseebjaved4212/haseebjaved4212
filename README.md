@@ -219,7 +219,7 @@ const haseeb = {
     <img src="https://img.shields.io/badge/Gmail-Send%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="https://my-portfolio-4-lovat.vercel.app/">
+  <a href="https://haseeb-portfoliooo-taupe.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-10B981?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
